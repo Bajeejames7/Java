@@ -1,3 +1,16 @@
+/*program to create objects, methods, for cat 2*/
+
+
+ //Author: James Wambui Bajee
+ //Reg no: CT101/G/19504/23
+ //Date: 22/1/2025
+ //version 1.0
+
+//Author: James Wambui Bajee
+ //Reg no: CT101/G/19504/23
+ //Date: 22/1/2025
+ //version 1.0
+
 import java.util.Scanner;
 
 // Class for storing student details
